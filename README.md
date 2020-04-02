@@ -25,7 +25,7 @@ They have been successfully compiled on:
 ## Usage
 
 	pcx2gba input.pcx output.inc array_name (Input File must be 8-bit PCX)
-	wav2gba input.wav output.inc array_name (Input File must be 8-bit, MONO)
+	wav2gba input.wav array_name (Input File must be 8-bit, MONO)
 
 ## License
 
